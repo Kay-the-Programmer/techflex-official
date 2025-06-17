@@ -1,0 +1,6 @@
+{
+  "name": "Techflex Zambia - Innovation Solutions",
+  "description": "A corporate website for Techflex, a Zambian tech company specializing in custom software for SMEs, Agri-Tech, Health-Tech, and Edu-Tech. The site showcases services, company information, and contact details.",
+  "requestFramePermissions": [],
+  "secretKeys": ["API_KEY"]
+}
